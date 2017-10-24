@@ -1979,7 +1979,8 @@ SQUID_FACTS = (
     'Squids belong to a particularly successful group of mollusks called the cephalopods, which have been around for about 500 million years.',
     'Giant squid mostly eat deep water fishes and other squids including other giant squids.',
     'The only predators that giant squid have are sperm whales.',
-    )
+    'SSquid are cephalopods of the order Teuthida, which comprises around 304 species.',
+)
 
 SQUIRREL_FACTS = (
     'In fall, squirrels bury more food than they will recover.',
