@@ -1764,7 +1764,8 @@ SALMON_FACTS = (
 	'Salmon flesh is orange due to organic pigments in their diet of krill and shellfish. Farmed salmon are fed fishmeal and wheat, which results in white flesh. Since consumers were reluctant to purchace white salmon, the pigments are added to their feed.',
 	'Salmon have an average of 2500 eggs, but can have up to 7000.',
 	'Salmon can travel up to 3500 miles to spawn.'
-	)
+	'Salmon is the common name for several specises of ray-finned fish in the family Salmonidae
+)
 
 SCORPION_FACTS = (
     'Scorpions are predatory animals of the class Arachnida, making them cousins to spiders, mites and ticks.',
