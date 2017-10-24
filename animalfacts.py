@@ -710,7 +710,8 @@ CRAB_FACTS = (
     'Some crab species can naturally autotomise (shed) limbs such as their claws, which then regenerate after about a year.',
     'Crabs make up 20% of all marine crustaceans caught by humans each year. This adds up to a total of 1.5 million ton annually',
     'The most consumed species of crab in the world is the Japanese Blue Crab.',
-    )
+    'Crabs vary in size from a few millimetres wide to a width of up to 4 metres.',
+)
 
 CROCODILE_FACTS = (
     'There are 23 different species of crocodiles that live on this planet.',
